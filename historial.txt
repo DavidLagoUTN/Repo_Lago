@@ -1,0 +1,20 @@
+    1  ls
+    2  ls -la
+    3  man ls
+    4  man man
+    5  pwd
+    6  man man
+    7  ls
+    8  cd repogit
+    9  ls
+   10  git clone https://github.com/DavidLagoUTN/Repo_Lago.git
+   11  ls
+   12  cd Repo_Lago/
+   13  ls
+   14  history
+   15  history > historial.txt
+   16  ls
+   17  cat historial.txt 
+   18  whoami
+   19  echo "hola mundo"
+   20  history >historial.txt
